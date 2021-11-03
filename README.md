@@ -1,1 +1,1 @@
-# Home-rent-automation-using-Magcibricks
+# Rental-Home-automation-using-Magcibricks
